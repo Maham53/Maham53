@@ -1,19 +1,19 @@
 Welcome to my GitHub profile! I'm a math and tech enthusiast currently pursuing a Bachelor's in Computational Math with Data Analytics. I love exploring the intersection of quantitative modeling, data analysis, and code.
-​🚀 What I'm Working With:
+​What I'm Working With:
 
 ​Languages & Core: Python, C++, HTML/CSS
 
 ​Interests: Data Analysis, Computational Modeling, Algorithms, and Cryptography
 
-​Education & Teaching: Computational Math with Data Analytics student and private tutor (covering STEM subjects from school to O-Levels)
+​Education & Teaching: Computational Math with Data Analytics student 
 
-​🌱 Currently Learning:
+​ Currently Learning:
 
 ​Expanding my Python development skills through data structures, automation, and algorithmic problem-solving.
 
 ​Diving into cybersecurity concepts through the Google Foundations of Cybersecurity certificate.
 
-​📫 Let's Connect:
+​ Let's Connect:
 
 ​Feel free to check out my repositories for code snippets, academic projects, and learning exercises.
 
