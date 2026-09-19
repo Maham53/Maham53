@@ -1,35 +1,23 @@
-Welcome to my GitHub profile! I'm a math and tech enthusiast currently pursuing a Bachelor's in Computational Math with Data Analytics. I love exploring the intersection of quantitative modeling, data analysis, and code.
-​What I'm Working With:
+# Hi there, I'm Maham Noor
 
-​Languages & Core: Python, C++, HTML/CSS
+I'm a **Computational Math & Data Analytics** student passionate about the intersection of quantitative modeling, algorithmic problem-solving, and software development.
 
-​Interests: Data Analysis, Computational Modeling, Algorithms, and Cryptography
+---
 
-​Education & Teaching: Computational Math with Data Analytics student 
+###  Tech Stack & Languages
+* **Languages:** Python, C++, HTML/CSS
+* **Core Focus:** Data Analysis, Computational Modeling, Algorithms, Cryptography
 
-​ Currently Learning:
+---
 
-​Expanding my Python development skills through data structures, automation, and algorithmic problem-solving.
+###  Currently Focused On
+*  **Python Development:** Deepening data structures, automation, and algorithmic challenges.
+*  **Cybersecurity:** Completing the *Google Foundations of Cybersecurity* certificate.
 
-​Diving into cybersecurity concepts through the Google Foundations of Cybersecurity certificate.
+---
 
-​ Let's Connect:
+### 📫 Let's Connect!
+* **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/Maham Noor)
+* **Email:** [your.email@example.com](mailto:mimi25pk@gmail.com)
 
-​Feel free to check out my repositories for code snippets, academic projects, and learning exercises.
-
-​Reach out if you want to chat about data analytics, coding challenges, or tech!
-
-<!--
-**Maham53/Maham53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Feel free to explore my repositories for code snippets, coursework, and personal projects!*
