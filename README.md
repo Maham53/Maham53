@@ -18,6 +18,6 @@ I'm a **Computational Math & Data Analytics** student passionate about the inter
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [your-linkedin-profile](https://linkedin.com/in/Maham Noor)
-* **Email:** [your.email@example.com](mailto:mimi25pk@gmail.com)
+* **Email:** mimi25pk@gmail.com
 
 *Feel free to explore my repositories for code snippets, coursework, and personal projects!*
